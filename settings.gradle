@@ -1,0 +1,2 @@
+rootProject.name = "ktraMusic"
+include ':app'
